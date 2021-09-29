@@ -12,6 +12,7 @@ app.use(cors());
 //Estableciendo conexión a la BD
 dbConection();
 //console.log(process.env)
+//test
 
 //Rutas de la API Proyectos
 app.get('/', (req,res)=>{
